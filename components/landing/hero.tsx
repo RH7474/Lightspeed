@@ -65,7 +65,7 @@ export function Hero() {
               {/* Path clarification */}
               <p className="text-xs text-muted-foreground mt-1">
                 <span className="text-foreground/70">Students:</span> See what
-                you&apos;ll build
+                you'll build
                 <span className="mx-2 text-border">|</span>
                 <span className="text-foreground/70">Parents & Educators:</span>{" "}
                 Book or request info

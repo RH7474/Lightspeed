@@ -32,7 +32,7 @@ const experiences = [
     icon: Users,
     title: "Learn in Small Groups",
     details: [
-      "8-12 students per workshop session",
+      "Students rotate through focused experiment teams during lab activities",
       "Direct access to instructors for questions",
       "Collaborative problem-solving with peers",
     ],
@@ -53,7 +53,7 @@ export function WorkshopExperience() {
           </h2>
           <p className="mt-4 text-lg text-muted-foreground leading-relaxed">
             Each 2-hour session mixes short explanations with hands-on lab time. 
-            You won&apos;t just hear about optics—you&apos;ll work with light directly.
+            You won't just hear about optics—you'll work with light directly.
           </p>
         </div>
 

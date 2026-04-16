@@ -21,13 +21,13 @@ export function Outcomes() {
           {/* What You'll Understand */}
           <div>
             <p className="text-sm font-medium uppercase tracking-wider text-brand-cyan mb-3">
-              What You&apos;ll Walk Away With
+              What You'll Walk Away With
             </p>
             <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-foreground text-balance">
               Real Understanding
             </h2>
             <p className="mt-4 text-muted-foreground leading-relaxed">
-              After the workshop, you&apos;ll be able to explain these concepts 
+              After the workshop, you'll be able to explain these concepts 
               clearly—because you tested them yourself.
             </p>
 
@@ -45,7 +45,7 @@ export function Outcomes() {
           <div>
             <div className="lg:mt-10">
               <h3 className="text-2xl font-bold text-foreground mb-3">
-                Projects You&apos;ll Build
+                Projects You'll Build
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-5 text-sm">
                 Each workshop includes at least one take-home project. 

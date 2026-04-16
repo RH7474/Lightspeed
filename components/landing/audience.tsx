@@ -8,7 +8,7 @@ const audiences = [
     title: "Students",
     subtitle: "Grades 9-12",
     description:
-      "You like knowing how things actually work. You&apos;ve wondered why the sky is blue, how cameras capture images, or what happens inside a laser. Here, you&apos;ll find out.",
+      "You like knowing how things actually work. You've wondered why the sky is blue, how cameras capture images, or what happens inside a laser. Here, you'll find out.",
     cta: "Explore the labs",
     ctaHref: "#experience",
     ctaVariant: "default" as const,
@@ -28,7 +28,7 @@ const audiences = [
     title: "Educators",
     subtitle: "Schools & programs",
     description:
-      "Bring your class for a field trip, or arrange an enrichment session. We provide hands-on learning that reinforces physics curriculum with practical application.",
+      "Book an enrichment session for your class or program. We deliver hands-on optics experiences that reinforce physics curriculum through practical application.",
     cta: "Request info",
     ctaHref: "#contact",
     ctaVariant: "outline" as const,
@@ -42,7 +42,7 @@ export function Audience() {
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-12">
           <p className="text-sm font-medium uppercase tracking-wider text-brand-cyan mb-3">
-            Who It&apos;s For
+            Who It's For
           </p>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-foreground text-balance">
             Students, Parents, and Educators

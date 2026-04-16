@@ -25,7 +25,7 @@ export function CTA() {
               className="bg-brand-cyan text-primary-foreground font-semibold hover:bg-brand-cyan/90 transition-colors px-8"
               asChild
             >
-              <Link href="mailto:info@lightspeedoptics.ca?subject=Workshop Inquiry">
+              <Link href="mailto:Rayhuda85@gmail.com?subject=Workshop Inquiry">
                 <Mail className="mr-2 h-4 w-4" />
                 Get in Touch
               </Link>
@@ -36,10 +36,10 @@ export function CTA() {
           <div className="mt-10 pt-6 border-t border-border">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-3 sm:gap-6 text-sm">
               <a 
-                href="mailto:info@lightspeedoptics.ca" 
+                href="mailto:Rayhuda85@gmail.com" 
                 className="text-foreground hover:text-brand-cyan transition-colors"
               >
-                info@lightspeedoptics.ca
+                Rayhuda85@gmail.com
               </a>
               <span className="hidden sm:inline text-border">|</span>
               <span className="text-muted-foreground">

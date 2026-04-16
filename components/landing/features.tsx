@@ -6,7 +6,7 @@ const topics = [
     title: "Reflection & Refraction",
     question: "Why do pools look shallower than they are?",
     description:
-      "Discover how light bends when it moves between materials. You&apos;ll measure angles, trace beam paths, and understand why lenses can focus light to a point.",
+      "Discover how light bends when it moves between materials. You'll measure angles, trace beam paths, and understand why lenses can focus light to a point.",
   },
   {
     icon: Radio,
@@ -31,7 +31,7 @@ export function Features() {
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-12">
           <p className="text-sm font-medium uppercase tracking-wider text-brand-cyan mb-3">
-            What You&apos;ll Explore
+            What You'll Explore
           </p>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-foreground text-balance">
             Real Questions, Real Answers

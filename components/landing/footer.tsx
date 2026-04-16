@@ -14,7 +14,7 @@ const footerLinks = {
   ],
   connect: [
     { label: "Contact", href: "#contact" },
-    { label: "Email Us", href: "mailto:info@lightspeedoptics.ca" },
+    { label: "Email Us", href: "mailto:Rayhuda85@gmail.com" },
   ],
 }
 
@@ -53,10 +53,10 @@ export function Footer() {
               <div className="mt-5 space-y-1.5">
                 <p className="text-sm text-muted-foreground">
                   <a 
-                    href="mailto:info@lightspeedoptics.ca" 
+                    href="mailto:Rayhuda85@gmail.com" 
                     className="hover:text-foreground transition-colors"
                   >
-                    info@lightspeedoptics.ca
+                    Rayhuda85@gmail.com
                   </a>
                 </p>
                 <p className="text-sm text-muted-foreground">
